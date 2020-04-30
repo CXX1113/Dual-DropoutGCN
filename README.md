@@ -29,3 +29,20 @@
 run the following scripts within Dual-DropoutGCN/ddgcn/
 1.  ./train.py  # Train and evaluate the DDGCN model.
 2.  ./case_study.py  #  Train our DDGCN using all the SL pairs in SynLethDB and predict novel SLs from the unknown pairs.
+
+# Citation
+If you find this useful for your research, we would be appreciated if you cite the following papers:
+```
+@article{10.1093/bioinformatics/btaa211,
+    author = {Cai, Ruichu and Chen, Xuexin and Fang, Yuan and Wu, Min and Hao, Yuexing},
+    title = "{Dual-Dropout Graph Convolutional Network for Predicting Synthetic Lethality in Human Cancers}",
+    journal = {Bioinformatics},
+    year = {2020},
+    month = {03},
+    issn = {1367-4803},
+    doi = {10.1093/bioinformatics/btaa211},
+    url = {https://doi.org/10.1093/bioinformatics/btaa211},
+    note = {btaa211},
+    eprint = {https://academic.oup.com/bioinformatics/advance-article-pdf/doi/10.1093/bioinformatics/btaa211/32977364/btaa211.pdf},
+}
+```
