@@ -1,4 +1,4 @@
-# Dual-Dropout Graph Convolutional Network for Predicting Synthetic Lethality in Human Cancers
+# Dual-Dropout Graph Convolutional Network for Predicting Synthetic Lethality in Human Cancers🔥
 
 :star: Star us on GitHub — it helps!!
 
